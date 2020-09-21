@@ -1,9 +1,15 @@
 ### Hi there 👋
+#### I am Shivam Soni, persuing B.Tech in Computer Science and Engineering. I am proficient in Data Analysis, Machine Learning, Deep Learning also have learned OpenCV, R programming, C, Python along with this I also know web development using Django framework with html , javascript , bootstrap,etc.
 
-
-*Italics*
-
-
+🔭 I’m currently working on Artificial Intelligence and Deep Learning.
+🌱 I’m currently learning more deepconcepts of AI like GAN.
+💬 Ask me about Image clsaaifier, tensorflow, object detection, Age and gender prediction.
+📫 How to reach me: 
+   * Linkdin  :- https://www.linkedin.com/in/shivam-soni-435302199/
+   * Facebook :- https://www.facebook.com/profile.php?id=100006420463818
+ 
+ ✨ Resume :- https://drive.google.com/file/d/1NKrwGZJGhAVDsc0a8qLFzzmnIdQIy-YE/view?usp=sharing
+😄 Pronouns: brainiac
 <!--
 **ShivamSoni11/ShivamSoni11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
