@@ -8,7 +8,6 @@
    * Linkdin  :- https://www.linkedin.com/in/shivam-soni-435302199/
    * Facebook :- https://www.facebook.com/profile.php?id=100006420463818
  
-- ✨ Resume :- https://drive.google.com/file/d/1NKrwGZJGhAVDsc0a8qLFzzmnIdQIy-YE/view?usp=sharing
 - 😄 Pronouns: *brainiac*
 <!--
 **ShivamSoni11/ShivamSoni11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
