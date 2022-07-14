@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I am Shivam Soni, persuing B.Tech in Computer Science and Engineering. I am proficient in Data Analysis, Machine Learning, Deep Learning also have learned OpenCV, R programming, C, Python along with this I also know web development using Django framework with html , javascript , bootstrap,etc.
+#### I am Shivam Soni,p B.Tech in Computer Science and Engineering. I am proficient in Data Analysis, Machine Learning, Deep Learning also have learned OpenCV, R programming, C, Python along with this I also know web development using Django framework with html , javascript , bootstrap,etc.
 
 - 🔭 I’m currently working on Artificial Intelligence and Deep Learning.
 - 🌱 I’m currently learning more deepconcepts of AI like GAN.
